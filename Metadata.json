@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 2446,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/connect-to-an-azure-subscription-using-certificates/master/Connect-Azure.ps1",
+    "DownloadCount": 8655,
+    "Id": "Connect-to-an-Azure-f27a81bb",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 249,
+    "RaterCount": 9,
+    "Rating": 4.7,
+    "ReleaseDate": "2014-3-31T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This PowerShell Workflow runbook sets up a connection to an Azure subscription by placing the Azure management certificate into the local machine store and setting the connection to the subscription. Warning: this runbook is deprecated.",
+    "Title": "Connect to an Azure Subscription using Certificates",
+    "UpdatedDate": "2016-5-18T00:00:00",
+    "Url": "https://github.com/azureautomation/connect-to-an-azure-subscription-using-certificates",
+    "UserTags": "Utility, PowerShell Workflow Runbook"
+}
